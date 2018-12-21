@@ -1,0 +1,3 @@
+Install jenkins on windows
+  Download war file from jenkins site then execute command to install through command prompt using java
+  java -jar jenkins.war
