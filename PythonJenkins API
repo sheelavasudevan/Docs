@@ -1,0 +1,4 @@
+To install pythonjenkins api on windows
+  1. Open cmd and execute below command
+    pip install jenkinsapi
+    
