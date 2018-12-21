@@ -1,0 +1,5 @@
+Delete Service in windows:
+If unable to delete services through service window, use the following process to delete through cmd
+1. Get the service name
+2. Open cmd as Administrator
+3. Run the following command, sc delete Jenkins
